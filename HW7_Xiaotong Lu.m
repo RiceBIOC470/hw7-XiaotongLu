@@ -1,4 +1,14 @@
 %HW7
+%GB comments
+1a 100
+1b 100
+1c 95 axis labels missing
+1d. 70 no length of running your function would produce a result. Also, there is no comments on your results.
+2a  30 This is the incorrect equation and reflects a model of gene activation and not a toggle switch. Something like this would be accepted : [V/(1+x(2)^4)-x(1); V/(1+x(1)^4)-x(2)];
+2b 100
+2c 95 no axis labels
+overall: 84 
+
 
 % Problem 1: Modeling population growth
 % The simplest model for a growing population assumes that each current
